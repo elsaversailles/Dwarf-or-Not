@@ -1,0 +1,77 @@
+body {
+    background-color: #323437; /* change this to the color you want */
+  }
+
+.text {
+    color: #d1d0c5; /* change this to the color you want */
+  }
+
+.spacer_20px {
+    height: 20px;
+  }
+
+.spacer_60px {
+    height: 60px;
+  }
+
+.container {
+    display: flex;
+    align-items: center;
+  }
+  
+.container1 {
+    align-items: center;
+  }
+
+ .image-and-text {
+    display: flex;
+    align-items: center;
+  }
+  
+.description{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.infoIcon{
+    margin-left:20px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10vh;
+  }
+
+.yesButton{
+    cursor: pointer;
+  }
+
+.noButton{
+    cursor: pointer;
+}
+
+.marginAround{
+    margin: 5px;
+}
+
+.btn-yellow{
+    background-color: #e2b714;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    width: 100px;
+    
+}
+
+.info{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+  
+
+  
