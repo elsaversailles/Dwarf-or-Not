@@ -12,7 +12,7 @@
   <div class="container">
     <div class="image-and-text">
       <img src="dwarf.png" alt="logo" width="40" height="40">
-      <a href="index.php" class="text-decoration-none"><h2 class="text-white">Dwarf or Not Dwarf</h2></a>
+      <a href="index.php" class="text-decoration-none"><h2 class="text-color">Dwarf or Not Dwarf</h2></a>
       <a href="help.html">
         <img src="information.png" class="infoIcon" alt="logo" width="25" height="25">
       </a>
