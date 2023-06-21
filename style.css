@@ -1,10 +1,14 @@
 body {
-    background-color: #323437; /* change this to the color you want */
+    background-color: #323437;
   }
 
 .text {
-    color: #d1d0c5; /* change this to the color you want */
+    color: #d1d0c5; 
   }
+
+.text-color{
+  color: #d1d0c5;
+}
 
 .spacer_20px {
     height: 20px;
@@ -74,4 +78,29 @@ body {
 }
   
 
-  
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.buttons a {
+  width: 40%;
+}
+
+
+
+.buttons a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  padding-top: 50px; /* Adjust the spacing between the image and button text */
+}
+
+.buttons a img {
+  position: absolute;
+  top: 0;
+  margin-top: 5px;
+}
