@@ -39,7 +39,7 @@
         }
       }
 
-      if ($sum <= $number) {
+      if ($sum == $number) {
         echo "<h2 class='text'>{$number} is a dwarf number</h2>";
         echo "<p class='text'>Try Again?</p>";
         echo "<div class='spacer_20px'> </div>";
